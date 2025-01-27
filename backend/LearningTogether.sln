@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningTogether", "LearningTogether\LearningTogether.csproj", "{359EAAFA-D50C-44FC-9DE0-D2A28D2447E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningTogether.Tests", "LearningTogether.Tests\LearningTogether.Tests.csproj", "{B564212A-7C37-42D4-A2B3-1CFF902942FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359EAAFA-D50C-44FC-9DE0-D2A28D2447E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359EAAFA-D50C-44FC-9DE0-D2A28D2447E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359EAAFA-D50C-44FC-9DE0-D2A28D2447E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359EAAFA-D50C-44FC-9DE0-D2A28D2447E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B564212A-7C37-42D4-A2B3-1CFF902942FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B564212A-7C37-42D4-A2B3-1CFF902942FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B564212A-7C37-42D4-A2B3-1CFF902942FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B564212A-7C37-42D4-A2B3-1CFF902942FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {319EF6CE-7B1A-42B9-9F4D-9749EBD384F9}
+	EndGlobalSection
+EndGlobal
